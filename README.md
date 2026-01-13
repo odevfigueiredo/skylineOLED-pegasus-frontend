@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Release-v0.1-6f42c1?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows%20✔-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻%20Windows%20✔-0078D6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux%20✔-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20✔-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Odroid%20✔-2C3E50?style=for-the-badge&logo=proxmox&logoColor=white" /> 
