@@ -178,4 +178,4 @@ Contributions are welcome.
 <p align="center">
   <b>skylineOLED</b><br/>
   A dark, elegant and OLED-optimized experience for Pegasus Frontend.
-</p>$0
+</p>
