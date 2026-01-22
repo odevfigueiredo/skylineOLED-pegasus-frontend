@@ -148,25 +148,25 @@ FocusScope {
         return {
             main: "#EBEBEB",
             secondary: "#2D2D2D",
-            accent: "#10AEBE",
+            accent: "#be1010ff",
             highlight: "white",
             text: "#2C2C2C",
             button: "white",
             icon: "#7e7e7e",
-            press: "#7Fc0f0f3"
+            press: "#f07f7ff3"
         }
     }
 
     property var themeDark: {
         return {
-            main: "#2D2D2D",
+            main: "#000000",
             secondary: "#EBEBEB",
-            accent: "#1d9bf3",
+            accent: '#ff0000',
             highlight: "black",
             text: "white",
-            button: "#515151",
+            button: '#000000',
             icon: "white",
-            press: "#591d9bf3"
+            press: '#770000'
         }
     }
 

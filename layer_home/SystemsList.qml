@@ -79,6 +79,8 @@ ListView {
                 return getGameBackground(systemData, settings.gameBackground);
             }
 
+
+
             Image {
                 id: systemImage
                 width: collectionsLayout.height

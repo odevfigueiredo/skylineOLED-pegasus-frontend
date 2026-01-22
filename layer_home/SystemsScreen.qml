@@ -82,6 +82,31 @@ FocusScope {
             }
 
             Text {
+                id: jonText
+                text: "jon.setup"
+                color: theme.text
+                font.family: titleFont.name
+                font.pixelSize: Math.round(screenheight*0.0277)
+                font.bold: true
+                anchors {
+                    verticalCenter: profileIcon.verticalCenter
+                    left: profileIcon.right; leftMargin: vpx(8)
+                }
+                smooth: true
+                antialiasing: true
+                layer.enabled: enableDropShadows
+                layer.effect: DropShadow {
+                    transparentBorder: true
+                    horizontalOffset: 0
+                    verticalOffset: 0
+                    color: "#4D000000"
+                    radius: 3.0
+                    samples: 6
+                    z: -2
+                }
+            }
+
+            Text {
                 id: collectionHomeTitle
                 text: ""
                 color: theme.text

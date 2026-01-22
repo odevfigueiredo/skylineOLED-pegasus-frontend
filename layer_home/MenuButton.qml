@@ -82,7 +82,7 @@ Item {
         width: innerCircle.width + borderWidth
         height: innerCircle.height + borderWidth
         radius:width/2
-        color: "#c0f0f3"
+        color: "#f3c0c0ff"
         z: -1
 
         x: innerCircle.x - borderWidth/2

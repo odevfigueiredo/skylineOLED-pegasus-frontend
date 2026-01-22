@@ -26,7 +26,7 @@ Rectangle {
     // Highlight animation (ColorOverlay causes graphical glitches on W10)
     Rectangle {
         anchors.fill: parent
-        color: "white"//"#c0f0f3"
+        color: "white"//"#ff0000ff"
         radius: hlBorder.radius
         SequentialAnimation on opacity {
             id: colorAnim
